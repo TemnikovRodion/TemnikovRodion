@@ -1,6 +1,6 @@
-## Hello, I'm Temnikov Rodion
+## <span style="color:blue">Hello, I'm Temnikov Rodion</span>
 
-# I'm Front-end developer
+# <span style="color:aqua">I'm Front-end developer</span>
 
 <img width="100%" src="logo.png"/>
 
