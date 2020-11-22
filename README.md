@@ -2,7 +2,7 @@
 
 ### I'm Front-end developer
 
-<img src="logo.png"/>
+<img width="100%" src="logo.png"/>
 
 
 
