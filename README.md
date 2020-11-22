@@ -1,6 +1,6 @@
-## <p style="text-align:center;">Hello, I'm Temnikov Rodion</p>
+## Hello, I'm Temnikov Rodion
 
-### <p style="text-align:center;">I'm Front-end developer</p>
+# I'm Front-end developer
 
 <img width="100%" src="logo.png"/>
 
