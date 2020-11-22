@@ -2,7 +2,7 @@
 
 ### I'm Front-end developer
 
-<img src="https://github.com/TemnikovRodion/TemnikovRodion/raw/main/Assets/logo.png"/>
+<img src="logo.png"/>
 
 
 
