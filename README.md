@@ -1,6 +1,6 @@
-## <span style="color:blue">some *Hello, I'm Temnikov Rodion* text</span>
+## *Hello, I'm Temnikov Rodion*
 
-# <span style="color:aqua">I'm Front-end developer</span>
+# **I'm Front-end developer**
 
 <img width="100%" src="logo.png"/>
 
