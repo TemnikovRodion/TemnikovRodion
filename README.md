@@ -1,6 +1,11 @@
-## Hello, I'm TemnikovRodion
+## <p>Hello, I'm Temnikov Rodion</p>
 
-### I'm Front-end developer
+p {
+    display: flex;
+    align-items: center;
+}
+
+### <p>I'm Front-end developer</p>
 
 <img width="100%" src="logo.png"/>
 
